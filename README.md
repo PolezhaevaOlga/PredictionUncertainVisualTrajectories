@@ -8,11 +8,7 @@ The DDM was employed to gain a deeper understanding of participants’ trajector
 
 
 
-This repository contains:
 
-- **Behavior Data**: this folder contains raw data and experiment data preprocessing scripts.
-- **Path**: this folder contains the codes for generating the paths as well as the paths used in the experiment.
-- **DDM**: this folder contains the results of fitting the Drift-Diffusion Model.
 
 
 
